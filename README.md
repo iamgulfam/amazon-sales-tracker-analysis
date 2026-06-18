@@ -83,8 +83,6 @@ Without a visual tracker, these answers stay buried in raw CSV rows.
 
 ## 📊 Dashboard / Output
 
-> 📌 **Replace the link below with your actual dashboard image or screenshot**
-
 ![Amazon Sales Dashboard](images/amazon_sales_dashboard_image.png)
 
 The dashboard includes:
