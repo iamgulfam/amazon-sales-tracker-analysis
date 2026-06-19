@@ -148,9 +148,9 @@ This project proves that even without DAX, Power BI with a clean Excel source pr
 ## 👤 Author & Contact
 
 **Gulfam Raza**
-B.Tech – Information Technology, RKGIT Ghaziabad
+🎓B.Tech – Information Technology, RKGIT Ghaziabad
 
-🎓 **CGPA: 8.02 | First Division with Distinction**
+🏆 **CGPA: 8.02 | First Division with Distinction**
 
 Specialization: Data Analytics & its related roles.
 
