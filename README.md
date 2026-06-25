@@ -1,6 +1,6 @@
 # 📦 Amazon Sales Tracker Dashboard – Excel + Power BI
 
-> Analyzing Amazon.in sales trends, revenue performance, courier efficiency, and regional demand across India (Apr 2022 – Jun 2022).
+> Analyzing Amazon.in sales trends, revenue performance, courier efficiency, and regional demand across India (Jan 2022 – Dec 2022).
 
 ---
 
@@ -29,7 +29,7 @@ Without a visual tracker, these answers stay buried in raw CSV rows.
 | Field | Details |
 |---|---|
 | Source | Amazon.in Sales Report (raw Excel) |
-| Period | April 1, 2022 – June 12, 2022 |
+| Period | Jan 2022 – Dec 2022 |
 | Records | 128,809 rows |
 | Columns | 19 (Order ID, Date, Status, Fulfilment, Category, Size, Courier Status, Amount, Ship-State, etc.) |
 | Currency | INR |
